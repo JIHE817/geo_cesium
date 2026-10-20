@@ -1,0 +1,5 @@
+node_modules
+dist
+.npm-cache
+_ppt_extract
+*.local
